@@ -49,14 +49,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
   <a href="https://www.linkedin.com/in/greicy-matias-34a489233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
   
   </div>
-   <h1 align="left">
-<details open>
-<summary> <i>🔮STATUS</i></summary>    
-   
-   <br>
-   
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Greicy28&theme=tokyo-night&hidedark_border=true">
-<br><br>  
+<i><h2>🔮STATUS</h2></i>   
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Greicy28&theme=tokyonight&hidedark_border=true">
+
+
+
+
    
  
   
