@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> 
 <img align="center" alt="Gre-React" height="30" width="40"         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
-img align="center" alt="Gre-Ts" height="30" width="40"         
+<img align="center" alt="Gre-Ts" height="30" width="40"         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> 
 
  
