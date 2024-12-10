@@ -3,7 +3,7 @@
             
 <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b761119da578fbd3b539f450dc792c1b6ed38da4c01dc&rid=giphy.gif&ct=g" width="250" height="250" />
 
-### **-📈Buscando oportunidade na área da Tecnologia!**
+### **-📈Buscando uma oportunidade na área da Tecnologia!**
 
 ### **-📌Atualmente focada em aprender linguagens em Front-End e Back-End!**
 
