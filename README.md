@@ -1,5 +1,8 @@
  # 👋 _Olá,sou Greicy Matias,seja bem-vindo(a)!!_
- ## _Desenvolvedora Full Stack_           
+ ## _Desenvolvedora Full Stack_   
+
+ > "Aprender nunca é demais, criar sempre é essencial!" 🚀
+
             
 <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b761119da578fbd3b539f450dc792c1b6ed38da4c01dc&rid=giphy.gif&ct=g" width="250" height="250" />
 
@@ -57,17 +60,15 @@
   </a>
 </div>
 
+
+  <i><h2>🔮STATUS</h2></i>   
 ![GitHub Streak](https://streak-stats.demolab.com?user=Greicy28&theme=radical&hide_border=true)
-  
-  
-  
-<i><h2>🔮STATUS</h2></i>   
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Greicy28&theme=tokyonight&hidedark_border=true">
 
 
-### <i>TOTAL DE VISITAS</i> 🕵️‍♀️
+### TOTAL DE VISITAS 🕵️‍♀️
 
 <div align="right">
-  <img src="https://profile-counter.glitch.me/Greicy28/count.svg" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Greicy28&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitas" />
 </div>
+
 
