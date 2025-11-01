@@ -1,7 +1,10 @@
  # 👋 _Olá,sou Greicy Matias,seja bem-vindo(a)!!_
  ## _Desenvolvedora Full Stack_   
 
- > "Aprender nunca é demais, criar sempre é essencial!" 🚀
+ <marquee behavior="alternate" direction="left" scrollamount="5" style="color:#FF69B4; font-size:18px; font-weight:bold;">
+Aprender nunca é demais, criar sempre é essencial! 🚀
+</marquee>
+
 
             
 <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b761119da578fbd3b539f450dc792c1b6ed38da4c01dc&rid=giphy.gif&ct=g" width="250" height="250" />
